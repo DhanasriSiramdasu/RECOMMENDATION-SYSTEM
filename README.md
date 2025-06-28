@@ -10,6 +10,6 @@ Top 5 Movie Recommendations for User 1:<br/>
    movieId &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;title<br/>
 0&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Toy Story (1995)<br/>
 1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jumanji (1995)<br/>
-318&nbsp; &nbsp; &nbsp;356 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Forrest Gump (1994)<br/>
-356&nbsp; &nbsp; &nbsp;480 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jurassic Park (1993)<br/>
-780 &nbsp; &nbsp; &nbsp;1196 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Star Wars: Episode V - The Empire Strikes Back (1980)<br/>
+318&nbsp; &nbsp; &nbsp;356 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Forrest Gump (1994)<br/>
+356&nbsp; &nbsp; &nbsp;480 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jurassic Park (1993)<br/>
+780 &nbsp; &nbsp;1196 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Star Wars: Episode V - The Empire Strikes Back (1980)<br/>
