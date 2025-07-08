@@ -1,3 +1,14 @@
+RECOMMENDATION SYSTEM</br>
+COMPANY:CODTECH IT SOLUTIONS<br/>
+NAME:DHANASRI SIRAMDASU<br/>
+INTERN ID:CT06DF2930<br/>
+DOMAIN:MACHINE LEARNING<br/>
+DURATION:6 WEEKSv
+MENTOR:NEELA SANTHOSH KUMAR<br/>
+
+INTRODUCTION</br>
+-----------------------</br>
+
 I had created a Python notebook implementing a recommendation system using collaborative filtering with matrix factorization (SVD) using the MovieLens dataset. The system will recommend movies based on user ratings, and I'll include evaluation metrics like RMSE(Root Mean Squared Error) and MAE(Mean Absolute Error).
 
 OUTPUT:
